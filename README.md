@@ -7,5 +7,4 @@
 * OpenGL
 * 创建窗口
 * 你好，窗口
-
-![image-20201207163149740](C:\Users\XiuMing\AppData\Roaming\Typora\typora-user-images\image-20201207163149740.png)
+* 你好，三角形
